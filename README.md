@@ -21,3 +21,7 @@ if err != nil {
   fmt.Println(t)
 }
 ```
+### result 
+```go
+// return type : (time.Time, err)
+```
