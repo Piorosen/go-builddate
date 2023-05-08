@@ -9,7 +9,7 @@ cgo
 ### how to import?
 ```shell
 // first. download package
-$ go get https://github.com/Piorosen/go-builddate
+$ go get github.com/Piorosen/go-builddate
 ```
 ### how to use?
 ```go
